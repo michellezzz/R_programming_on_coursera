@@ -1,1 +1,2 @@
-# R_programming_on_coursera
+# R programming on coursera 
+## Programming assignment solutions
